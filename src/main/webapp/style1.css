@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+body {
+	background-size: cover;
+    color: black;
+}
+
+.navbar {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: white;
+}
+
+.bar {
+	background-color: #000000;
+}
+
+.cent {
+	text-align: center;
+}
